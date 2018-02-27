@@ -1,2 +1,2 @@
-# Graph Analytics - Neo4j
+# Graph Analytics
 Cognitive Application development using Neo4j Graph Database
